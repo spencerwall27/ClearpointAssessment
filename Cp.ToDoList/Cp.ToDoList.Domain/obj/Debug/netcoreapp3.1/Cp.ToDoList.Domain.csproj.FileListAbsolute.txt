@@ -1,0 +1,9 @@
+C:\Clearpoint\Cp.ToDoList\Cp.ToDoList\Cp.ToDoList.Domain\bin\Debug\netcoreapp3.1\Cp.ToDoList.Domain.deps.json
+C:\Clearpoint\Cp.ToDoList\Cp.ToDoList\Cp.ToDoList.Domain\bin\Debug\netcoreapp3.1\Cp.ToDoList.Domain.dll
+C:\Clearpoint\Cp.ToDoList\Cp.ToDoList\Cp.ToDoList.Domain\bin\Debug\netcoreapp3.1\Cp.ToDoList.Domain.pdb
+C:\Clearpoint\Cp.ToDoList\Cp.ToDoList\Cp.ToDoList.Domain\obj\Debug\netcoreapp3.1\Cp.ToDoList.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Clearpoint\Cp.ToDoList\Cp.ToDoList\Cp.ToDoList.Domain\obj\Debug\netcoreapp3.1\Cp.ToDoList.Domain.AssemblyInfoInputs.cache
+C:\Clearpoint\Cp.ToDoList\Cp.ToDoList\Cp.ToDoList.Domain\obj\Debug\netcoreapp3.1\Cp.ToDoList.Domain.AssemblyInfo.cs
+C:\Clearpoint\Cp.ToDoList\Cp.ToDoList\Cp.ToDoList.Domain\obj\Debug\netcoreapp3.1\Cp.ToDoList.Domain.csproj.CoreCompileInputs.cache
+C:\Clearpoint\Cp.ToDoList\Cp.ToDoList\Cp.ToDoList.Domain\obj\Debug\netcoreapp3.1\Cp.ToDoList.Domain.dll
+C:\Clearpoint\Cp.ToDoList\Cp.ToDoList\Cp.ToDoList.Domain\obj\Debug\netcoreapp3.1\Cp.ToDoList.Domain.pdb

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Cp.ToDoList.Tests
+build_property.ProjectDir = C:\Clearpoint\Cp.ToDoList\Cp.ToDoList\Cp.ToDoList.Tests\

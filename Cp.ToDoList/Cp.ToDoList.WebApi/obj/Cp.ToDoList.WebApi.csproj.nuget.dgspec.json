@@ -1,0 +1,141 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Clearpoint\\Cp.ToDoList\\Cp.ToDoList\\Cp.ToDoList.WebApi\\Cp.ToDoList.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Clearpoint\\Cp.ToDoList\\Cp.ToDoList\\Cp.ToDoList.Domain\\Cp.ToDoList.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Clearpoint\\Cp.ToDoList\\Cp.ToDoList\\Cp.ToDoList.Domain\\Cp.ToDoList.Domain.csproj",
+        "projectName": "Cp.ToDoList.Domain",
+        "projectPath": "C:\\Clearpoint\\Cp.ToDoList\\Cp.ToDoList\\Cp.ToDoList.Domain\\Cp.ToDoList.Domain.csproj",
+        "packagesPath": "C:\\Users\\spencer\\.nuget\\packages\\",
+        "outputPath": "C:\\Clearpoint\\Cp.ToDoList\\Cp.ToDoList\\Cp.ToDoList.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\spencer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Clearpoint\\Cp.ToDoList\\Cp.ToDoList\\Cp.ToDoList.WebApi\\Cp.ToDoList.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Clearpoint\\Cp.ToDoList\\Cp.ToDoList\\Cp.ToDoList.WebApi\\Cp.ToDoList.WebApi.csproj",
+        "projectName": "Cp.ToDoList.WebApi",
+        "projectPath": "C:\\Clearpoint\\Cp.ToDoList\\Cp.ToDoList\\Cp.ToDoList.WebApi\\Cp.ToDoList.WebApi.csproj",
+        "packagesPath": "C:\\Users\\spencer\\.nuget\\packages\\",
+        "outputPath": "C:\\Clearpoint\\Cp.ToDoList\\Cp.ToDoList\\Cp.ToDoList.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\spencer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Clearpoint\\Cp.ToDoList\\Cp.ToDoList\\Cp.ToDoList.Domain\\Cp.ToDoList.Domain.csproj": {
+                "projectPath": "C:\\Clearpoint\\Cp.ToDoList\\Cp.ToDoList\\Cp.ToDoList.Domain\\Cp.ToDoList.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "StructureMap": {
+              "target": "Package",
+              "version": "[4.7.1, )"
+            },
+            "StructureMap.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
